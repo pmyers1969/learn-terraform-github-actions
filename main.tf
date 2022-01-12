@@ -11,7 +11,6 @@ terraform {
   }
   required_version = ">= 1.1.0"
 
-#add tf cloud org
   cloud {
     organization = "pmyers1969org"
 
